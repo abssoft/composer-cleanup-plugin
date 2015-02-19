@@ -81,6 +81,7 @@ class CleanupRules
             'phenx/php-font-lib'                    => "{$standard} www",
             'phpdocumentor/reflection-docblock'     => "{$standard}",
             'phpoffice/phpexcel'                    => "{$standard} Examples unitTests changelog.txt",
+            'phpmailer/phpmailer'                   => "{$standard}",
             'rcrowe/twigbridge'                     => "{$standard}",
             'tijsverkoyen/css-to-inline-styles'     => "{$standard}",
             'twig/twig'                             => "{$standard}",
